@@ -1,0 +1,28 @@
+# Python bytecode files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django specific files
+*.log
+db.sqlite3
+media/
+staticfiles/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE or editor folders
+.idea/
+.vscode/
+
+# System files
+.DS_Store
+*.swp
+*.swo
+
+# Backup files
+*.bak
+*.tmp
